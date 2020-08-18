@@ -1,0 +1,20 @@
+---
+  title: "press"
+  date: 2020-08-18
+---
+
+Footprints of the invisible enemy – Why a study showing that COVID-19 is everywhere is good news. (April 2020). [The Economist](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news)
+
+New Study Suggests 8.7 million Americans had Coronavirus in March but 80% were never diagnosed. (June 22, 2020). [CNN with Wolf Blitzer and Sanjay Gupta](https://www.cnn.com/world/live-news/coronavirus-pandemic-06-22-20-intl/h_7fe27b74e481da8fb6abcc199ab51a71)
+
+Study Identifies Abnormal Surge of Flu-like illness in March. (June 30, 2020). [The Scientist](https://www.the-scientist.com/news-opinion/study-identifies-abnormal-surge-of-flu-like-illnesses-in-march-67681)
+
+Over 8.7 million coronavirus cases in US went undetected in March: study. (June 23, 2020). [New York Post](https://nypost.com/2020/06/23/over-8-7-million-covid-19-cases-in-us-went-undetected-in-march-study/)
+
+The US may have seen 8.7 million coronavirus cases in March alone, new research shows – meaning millions went undiagnosed. (June 25, 2020). [Business Insider](https://www.businessinsider.com/us-coronavirus-infection-rate-80-times-higher-in-march-2020-6)
+
+Study suggests 80% of Covid-19 cases in the US went undetected in March. (June 23, 2020) [CNN](https://us.cnn.com/2020/06/23/health/undetected-coronavirus-cases-march-study/index.html)
+
+New Model Shows COVID More Widespread, Less Severe. (April 18, 2020). Medscape In Pursuit of Real Coronavirus Numbers. (April 19, 2020). [Medscape](https://www.webmd.com/lung/news/20200418/new-model-shows-covid-more-widespread-less-severe)
+
+How Many Cases of COVID-19. (April 18, 2020). [Interview with John Whyte, WebMD](https://www.webmd.com/special-reports/coronavirus-in-context/default.htm)

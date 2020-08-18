@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silverman Lab</title>
-    <link>https://example.com/</link>
+    <link>https://jsilve24.github.io/SilvermanLab/</link>
     <description>Recent content on Silverman Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jsilve24.github.io/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>code</title>
-      <link>https://example.com/code/</link>
+      <link>https://jsilve24.github.io/SilvermanLab/code/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/code/</guid>
+      <guid>https://jsilve24.github.io/SilvermanLab/code/</guid>
       <description>fido Bayesian multinomial logistic normal models, really fast. Lots of models including linear and non-linear regression, time-series analysis, and joint modeling of multi-omic data. renamed from stray. GitHub
 RcppHungarian Header library and R functions to solve minimum cost bipartite matching problem using Huhn-Munkres algorithm. CRAN
 RcppCoDA Blazing fast library for the analysis of compositional data with both C++ and R interfaces GitHub
@@ -24,29 +24,29 @@ philr Phylogenetic partitioning based ILR transform for metagenomics data.</desc
     
     <item>
       <title>lab members</title>
-      <link>https://example.com/people/</link>
+      <link>https://jsilve24.github.io/SilvermanLab/people/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/people/</guid>
+      <guid>https://jsilve24.github.io/SilvermanLab/people/</guid>
       <description>Justin Silverman (PI)
 Michelle Nixon (PhD Candidate)</description>
     </item>
     
     <item>
       <title>open positions</title>
-      <link>https://example.com/positions/</link>
+      <link>https://jsilve24.github.io/SilvermanLab/positions/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/positions/</guid>
+      <guid>https://jsilve24.github.io/SilvermanLab/positions/</guid>
       <description>We are currently hiring graduate students. Contact Justin Silverman if you are interested.</description>
     </item>
     
     <item>
       <title>press</title>
-      <link>https://example.com/press/</link>
+      <link>https://jsilve24.github.io/SilvermanLab/press/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/press/</guid>
+      <guid>https://jsilve24.github.io/SilvermanLab/press/</guid>
       <description>Footprints of the invisible enemy – Why a study showing that COVID-19 is everywhere is good news. (April 2020). The Economist
 New Study Suggests 8.7 million Americans had Coronavirus in March but 80% were never diagnosed. (June 22, 2020). CNN with Wolf Blitzer and Sanjay Gupta
 Study Identifies Abnormal Surge of Flu-like illness in March. (June 30, 2020). The Scientist
@@ -55,10 +55,10 @@ Over 8.7 million coronavirus cases in US went undetected in March: study.</descr
     
     <item>
       <title>publications</title>
-      <link>https://example.com/publications/</link>
+      <link>https://jsilve24.github.io/SilvermanLab/publications/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/</guid>
+      <guid>https://jsilve24.github.io/SilvermanLab/publications/</guid>
       <description>Using influenza surveillance networks to estimate state-specific prevalence of SARS-CoV-2 in the United States. Science Translational Medicine
 Short-Chain Fatty Acid Production by Gut Micro- biota from Children with Obesity Differs According to Prebiotic Choice and Bacterial Community Composition. mBio
 Inter-individual variation in dietary carbohydrate metabolism by gut bacteria revealed with droplet microfluidic culture. mSystems.
@@ -67,10 +67,10 @@ Allogenic fecal microbiota transplantation in patients with non-alcoholic fatty 
     
     <item>
       <title>research</title>
-      <link>https://example.com/research/</link>
+      <link>https://jsilve24.github.io/SilvermanLab/research/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
+      <guid>https://jsilve24.github.io/SilvermanLab/research/</guid>
       <description>We conduct cutting-edge research developing Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data.
 Our lab is founded on collaborations with both accademia and industry, so please contact us.</description>
     </item>

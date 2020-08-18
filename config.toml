@@ -25,27 +25,27 @@ publishDir = "docs"
     # rss                = ""
 
 [[params.mainMenu]]
-    link = "research"
+    link = "research/"
     text = "research"
 
 [[params.mainMenu]]
-    link = "people"
+    link = "people/"
     text = "people"
 
 [[params.mainMenu]]
-    link = "publications"
+    link = "publications/"
     text = "publications"
 
 [[params.mainMenu]]
-    link = "code"
+    link = "code/"
     text = "code"
 
 [[params.mainMenu]]
-   link="press"
+   link="press/"
    text="press"
 
 [[params.mainMenu]]
-    link = "positions"
+    link = "positions/"
     text = "open positions"
 
 [imaging]

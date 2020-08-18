@@ -2,7 +2,7 @@ baseurl                  = "https://jsilve24.github.io/SilvermanLab/"           
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Silverman Lab"
+Title                    = "Silverman Lab"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -19,7 +19,7 @@ publishDir = "docs"
     footerText           = "Silverman Lab @ Penn State University"
 
 # Metadata for Open Graph and Twitter
-    description          = "simple lab web site"               # Max 160 characters show in search results
+    description          = ""               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Silverman Lab"
     # rss                = ""

@@ -20,8 +20,8 @@ publishDir = "docs"
 
 # Metadata for Open Graph and Twitter
     description          = ""               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Silverman Lab"
+    images               = ""                      # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "The Silverman Lab at PSU"
     # rss                = ""
 
 [[params.mainMenu]]

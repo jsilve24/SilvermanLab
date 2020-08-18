@@ -2,51 +2,40 @@ baseurl                  = "https://example.com"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Silverman Lab"
+title                    = "Call me Sam"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
-
-publishDir = "docs"
-
 
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Silverman Lab @ Penn State University"
+    footerText           = "Call me Sam, a theme for Hugo."
 
 # Metadata for Open Graph and Twitter
-    description          = "simple lab web site"               # Max 160 characters show in search results
+    description          = "A new Hugo site."               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Silverman Lab"
+    title                = "Call me Sam"
     # rss                = ""
 
 [[params.mainMenu]]
-    link = "research"
-    text = "research"
+    link = "posts"
+    text = "posts"
 
 [[params.mainMenu]]
-    link = "people"
-    text = "people"
+    link = "gallery"
+    text = "gallery"
 
 [[params.mainMenu]]
-    link = "publications"
-    text = "publications"
+    link = "portfolio"
+    text = "portfolio"
 
 [[params.mainMenu]]
-    link = "code"
-    text = "code"
-
-[[params.mainMenu]]
-   link="press"
-   text="press"
-
-[[params.mainMenu]]
-    link = "positions"
-    text = "open positions"
+    link = "about"
+    text = "who is sam?"
 
 [imaging]
     quality = 75

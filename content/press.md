@@ -5,6 +5,8 @@
 
 Footprints of the invisible enemy – Why a study showing that COVID-19 is everywhere is good news. (April 2020). [The Economist](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news)
 
+How deadly is the coronavirus? The true fatality rate is tricky to find, but researchers are getting close. (July 2020) [The Conversation](https://theconversation.com/how-deadly-is-the-coronavirus-the-true-fatality-rate-is-tricky-to-find-but-researchers-are-getting-closer-141426)
+
 New Study Suggests 8.7 million Americans had Coronavirus in March but 80% were never diagnosed. (June 22, 2020). [CNN with Wolf Blitzer and Sanjay Gupta](https://www.cnn.com/world/live-news/coronavirus-pandemic-06-22-20-intl/h_7fe27b74e481da8fb6abcc199ab51a71)
 
 Study Identifies Abnormal Surge of Flu-like illness in March. (June 30, 2020). [The Scientist](https://www.the-scientist.com/news-opinion/study-identifies-abnormal-surge-of-flu-like-illnesses-in-march-67681)

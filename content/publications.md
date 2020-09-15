@@ -1,7 +1,9 @@
 --- 
   title: "publications"
-  date: 2020-08-18
+  date: 2020-09-15
 ---
+
+Naught all zeros in sequence count data are the same. [Computational and Structural Biotechnology Journal (In Press)](https://www.biorxiv.org/content/10.1101/477794v2)
 
 Using influenza surveillance networks to estimate state-specific prevalence of SARS-CoV-2 in the United States. [Science Translational Medicine](https://stm.sciencemag.org/content/12/554/eabc1126)
 
@@ -16,8 +18,6 @@ Establishing microbial measurement standards with reference frames. [Nature Comm
 Measuring and Mitigating PCR Bias in Microbiome Data. [bioRxiv](https://www.biorxiv.org/content/10.1101/604025v1)
 
 Bayesian Multinomial Logistic Normal Models through Marginally Latent Matrix-T Processes. [arXiv](https://arxiv.org/abs/1903.11695)
-
-Naught all zeros in sequence count data are the same. [bioRxiv](https://www.biorxiv.org/content/10.1101/477794v2)
 
 Statistical Considerations in the Design and Analysis of Longitudinal Microbiome Studies. [bioRxiv](https://www.biorxiv.org/content/10.1101/448332v1)
 

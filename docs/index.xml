@@ -11,6 +11,18 @@
     
     
     <item>
+      <title>publications</title>
+      <link>https://jsilve24.github.io/SilvermanLab/publications/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jsilve24.github.io/SilvermanLab/publications/</guid>
+      <description>Naught all zeros in sequence count data are the same. Computational and Structural Biotechnology Journal (In Press)
+Using influenza surveillance networks to estimate state-specific prevalence of SARS-CoV-2 in the United States. Science Translational Medicine
+Short-Chain Fatty Acid Production by Gut Micro- biota from Children with Obesity Differs According to Prebiotic Choice and Bacterial Community Composition. mBio
+Inter-individual variation in dietary carbohydrate metabolism by gut bacteria revealed with droplet microfluidic culture. mSystems.</description>
+    </item>
+    
+    <item>
       <title>code</title>
       <link>https://jsilve24.github.io/SilvermanLab/code/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
@@ -48,21 +60,9 @@ Michelle Nixon (PhD Candidate)</description>
       
       <guid>https://jsilve24.github.io/SilvermanLab/press/</guid>
       <description>Footprints of the invisible enemy – Why a study showing that COVID-19 is everywhere is good news. (April 2020). The Economist
+How deadly is the coronavirus? The true fatality rate is tricky to find, but researchers are getting close. (July 2020) The Conversation
 New Study Suggests 8.7 million Americans had Coronavirus in March but 80% were never diagnosed. (June 22, 2020). CNN with Wolf Blitzer and Sanjay Gupta
-Study Identifies Abnormal Surge of Flu-like illness in March. (June 30, 2020). The Scientist
-Over 8.7 million coronavirus cases in US went undetected in March: study.</description>
-    </item>
-    
-    <item>
-      <title>publications</title>
-      <link>https://jsilve24.github.io/SilvermanLab/publications/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jsilve24.github.io/SilvermanLab/publications/</guid>
-      <description>Using influenza surveillance networks to estimate state-specific prevalence of SARS-CoV-2 in the United States. Science Translational Medicine
-Short-Chain Fatty Acid Production by Gut Micro- biota from Children with Obesity Differs According to Prebiotic Choice and Bacterial Community Composition. mBio
-Inter-individual variation in dietary carbohydrate metabolism by gut bacteria revealed with droplet microfluidic culture. mSystems.
-Allogenic fecal microbiota transplantation in patients with non-alcoholic fatty liver disease improves abnormal small intestinal permeability: a randomized control trial.</description>
+Study Identifies Abnormal Surge of Flu-like illness in March.</description>
     </item>
     
     <item>
@@ -71,8 +71,9 @@ Allogenic fecal microbiota transplantation in patients with non-alcoholic fatty 
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jsilve24.github.io/SilvermanLab/research/</guid>
-      <description>We conduct cutting-edge research developing Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data.
-Our lab is founded on collaborations with both accademia and industry, so please contact us.</description>
+      <description>in brief We conduct cutting-edge research developing Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data.
+Our lab is founded on collaborations with both accademia and industry, so please contact us.
+long form If it has cool math and an impactful question, we are interested. Based on Dr. Silverman&amp;rsquo;s combined medical and statistical training, we tend to gravitate to problems in the analysis of biomedical data; especially, genomics and electronic health data.</description>
     </item>
     
   </channel>

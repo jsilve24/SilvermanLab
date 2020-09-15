@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jsilve24.github.io/SilvermanLab/publications/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jsilve24.github.io/SilvermanLab/code/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +24,6 @@
   
   <url>
     <loc>https://jsilve24.github.io/SilvermanLab/press/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jsilve24.github.io/SilvermanLab/publications/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
   

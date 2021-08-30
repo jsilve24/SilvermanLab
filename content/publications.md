@@ -3,7 +3,7 @@
   date: 2020-09-15
 ---
 
-# Preprints
+# preprints
 
 Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.26.450023v1.abstract)
 

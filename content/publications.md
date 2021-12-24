@@ -11,9 +11,10 @@ Multiomics implicate gut microbiota in altered lipid and energy metabolism in Pa
 
 Analysis and visualization of epidemics on the timescale of burden: derivation and application of Epidemic Resistance Lines (ERLs) to COVID-19 outbreaks in the US. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.05.03.21256542v2.full)
 
-Inferring Principal Components in the Simplex with Multinomial Variational Autoencoders. [OpenReview](https://openreview.net/forum?id=OjUsDdCpR5) 
 
 # 2021
+
+Scalable estimation of microbial co-occurrence networks with Variational Autoencoders. [NeurIPS](https://drive.google.com/open?id=1E1HepHerht2RcbzbmarsNGiZV3P8Y_kq)
 
 Bayesian Multinomial Logistic Normal Models through Marginally Latent Matrix-T Processes. [Journal of Machine Learning Resarch (Accepted)](https://arxiv.org/abs/1903.11695)
 

@@ -8,25 +8,37 @@ date: 2022-05-20
 <!-- convert 'michelle.jpg[250x]' michelle-resized.jpg -->
 
 
-
-<img align="left" src="Silverman-Justin.jpg" style="max-width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <br />[Justin Silverman (PI)](http://justin-silverman.com)
-
-
-
-<img align="left" src="michelle-resized.jpg" style="max-width: 35%; border-radius: 50%; margin-right: 5%"> <br /> <br />[Michelle Nixon (Assistant Research Professor)](https://ist.psu.edu/directory/map5672)
+<div>
+<img align="left" src="Silverman-Justin.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="http://justin-silverman.com"> Dr. Justin Silverman, MD, PhD</a>
+<br />Principle Investigator
+</div>
 
 
 
-<img align="left" src="kyle.png" style="max-width: 30%;  border-radius: 50%; margin-right: 5%"> <br /><br />
-[Kyle McGovern (PhD Student, Bioinformatics and Genomics)](https://www.huck.psu.edu/people/kyle-mcgovern)
+<div style>
+<img align="left" src="michelle.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://ist.psu.edu/directory/map5672"> Dr. Michelle Nixon, PhD</a>
+<br /> Assistant Research Professor
+</div>
 
-Andrew Sugarman (PhD Student, Bioinformatics and Genomics))
 
-Tinghua Chen (PhD Student, Informatics)
+<div>
+<img align="left" src="kyle.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://www.huck.psu.edu/people/kyle-mcgovern"> Kyle McGovern </a>
+<br /> PhD Student, Bioinformatics and Genomics
+</div>
 
-Zhao Ma (Masters Student, Informatics)
+
+
+Andrew Sugarman <br />
+PhD Student, Bioinformatics and Genomics
+
+Tinghua Chen <br /> 
+PhD Student, Informatics
+
+Zhao Ma <br /> 
+Masters Student, Informatics
 
 # Graduated
 
-[Farhani Momotaz (Masters Student, Informatics)](https://ist.psu.edu/directory/fbm5122)
+<a href="https://ist.psu.edu/directory/fbm5122">Farhani Momotaz</a> <br />
+Masters Student, Informatics
 

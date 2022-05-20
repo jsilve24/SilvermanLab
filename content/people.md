@@ -5,7 +5,7 @@ date: 2022-05-20
 
 [Justin Silverman (PI)](http://justin-silverman.com)
 
-![foo](Silverman-Justin.jpg)
+![foo](/SilvermanLab/Silverman-Justin.jpg)
 asdf
 
 [Michelle Nixon (Assistant Research Professor)](https://ist.psu.edu/directory/map5672)

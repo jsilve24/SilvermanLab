@@ -5,23 +5,8 @@
     <link>https://jsilve24.github.io/SilvermanLab/</link>
     <description>Recent content on Silverman Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jsilve24.github.io/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>lab members</title>
-      <link>https://jsilve24.github.io/SilvermanLab/people/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://jsilve24.github.io/SilvermanLab/people/</guid>
-      <description>Justin Silverman (PI)
-asdf
-Michelle Nixon (Assistant Research Professor)
-Kyle McGovern (PhD Student, Bioinformatics and Genomics)
-Andrew Sugarman (PhD Student, Bioinformatics and Genomics))
-Tinghua Chen (PhD Student, Informatics)
-Zhao Ma (Masters Student, Informatics)
-Graduated Farhani Momotaz (Masters Student, Informatics)</description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jsilve24.github.io/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>publications</title>
       <link>https://jsilve24.github.io/SilvermanLab/publications/</link>

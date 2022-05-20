@@ -29,7 +29,7 @@ publishDir = "docs"
     text = "research"
 
 [[params.mainMenu]]
-    link = "people/"
+    link = "people"
     text = "people"
 
 [[params.mainMenu]]

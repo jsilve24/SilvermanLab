@@ -9,14 +9,16 @@
     <item>
       <title>lab members</title>
       <link>https://jsilve24.github.io/SilvermanLab/people/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://jsilve24.github.io/SilvermanLab/people/</guid>
       <description>Justin Silverman (PI)
 Michelle Nixon (Assistant Research Professor)
 Kyle McGovern (PhD Student, Bioinformatics and Genomics)
-Farhani Momotaz (Masters Student, Informatics)
-Tinghua Chen</description>
+Andrew Sugarman (PhD Student, Bioinformatics and Genomics))
+Tinghua Chen (PhD Student, Informatics)
+Zhao Ma (Masters Student, Informatics)
+Graduated Farhani Momotaz (Masters Student, Informatics)</description>
     </item>
     
     <item>
@@ -25,11 +27,12 @@ Tinghua Chen</description>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jsilve24.github.io/SilvermanLab/publications/</guid>
-      <description>preprints Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake. bioRxiv
-Multiomics implicate gut microbiota in altered lipid and energy metabolism in Parkinson’s disease. medRxiv
-Analysis and visualization of epidemics on the timescale of burden: derivation and application of Epidemic Resistance Lines (ERLs) to COVID-19 outbreaks in the US. medRxiv
-Inferring Principal Components in the Simplex with Multinomial Variational Autoencoders. OpenReview
-2021 Bayesian Multinomial Logistic Normal Models through Marginally Latent Matrix-T Processes.</description>
+      <description>preprints A Statistical Analysis of Compositional Surveys. arXiv
+Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake. bioRxiv
+2022 Multiomics implicate gut microbiota in altered lipid and energy metabolism in Parkinson’s disease. NPJ Parkinsson&amp;rsquo;s Disease
+2021 Scalable estimation of microbial co-occurrence networks with Variational Autoencoders. NeurIPS
+Bayesian Multinomial Logistic Normal Models through Marginally Latent Matrix-T Processes. Journal of Machine Learning Resarch (Accepted)
+Measuring and Mitigating PCR Bias in Microbiome Data.</description>
     </item>
     
     <item>
@@ -72,7 +75,7 @@ Study Identifies Abnormal Surge of Flu-like illness in March.</description>
       
       <guid>https://jsilve24.github.io/SilvermanLab/research/</guid>
       <description>in brief We conduct cutting-edge research developing Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data.
-Our lab is founded on collaborations with both accademia and industry, so please contact us.
+Our lab is founded on collaborations with both accademia and industry, please contact us if you are interested in potential collaboration.
 long form If it has cool math and an impactful question, we are interested. Based on Dr. Silverman&amp;rsquo;s combined medical and statistical training, we tend to gravitate to problems in the analysis of biomedical data; especially, genomics and electronic health data.</description>
     </item>
     

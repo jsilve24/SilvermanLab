@@ -1,6 +1,6 @@
 ---
 title: "lab members"
-date: 2021-08-20
+date: 2022-05-20
 
 ---
 
@@ -10,7 +10,12 @@ date: 2021-08-20
 
 [Kyle McGovern (PhD Student, Bioinformatics and Genomics)](https://www.huck.psu.edu/people/kyle-mcgovern)
 
+Andrew Sugarman (PhD Student, Bioinformatics and Genomics))
+
+Tinghua Chen (PhD Student, Informatics)
+
+Zhao Ma (Masters Student, Informatics)
+
+# Graduated
+
 [Farhani Momotaz (Masters Student, Informatics)](https://ist.psu.edu/directory/fbm5122)
-
-Tinghua Chen
-

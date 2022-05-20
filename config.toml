@@ -19,7 +19,7 @@ publishDir = "docs"
     footerText           = "Silverman Lab @ Penn State University"
 
 # Metadata for Open Graph and Twitter
-    description          = ""               # Max 160 characters show in search results
+    description          = "Silverman Lab at Penn State University: Statistics, Genomics, and Biomedical Informatics"               # Max 160 characters show in search results
     images               = ""                      # Image that shows on Twitter cards and Open Graph links to the site
     title                = "The Silverman Lab at PSU"
     # rss                = ""

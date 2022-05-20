@@ -5,12 +5,15 @@
 
 # preprints
 
+
+A Statistical Analysis of Compositional Surveys. [arXiv](https://arxiv.org/abs/2201.03616)
+
 Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.26.450023v1.abstract)
 
-Multiomics implicate gut microbiota in altered lipid and energy metabolism in Parkinson’s disease. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.05.29.21258035v1)
 
-Analysis and visualization of epidemics on the timescale of burden: derivation and application of Epidemic Resistance Lines (ERLs) to COVID-19 outbreaks in the US. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.05.03.21256542v2.full)
+# 2022
 
+Multiomics implicate gut microbiota in altered lipid and energy metabolism in Parkinson’s disease. [NPJ Parkinsson's Disease](https://www.nature.com/articles/s41531-022-00300-3)
 
 # 2021
 
@@ -25,6 +28,9 @@ Naught all zeros in sequence count data are the same. [Computational and Structu
 DNA Extraction and Host Depletion Methods Significantly Impact and Potentially Bias Bacterial Detection in a Biological Fluid. [mSystems](https://journals.asm.org/doi/full/10.1128/mSystems.00619-21)
 
 The Pediatric Obesity Microbiome and Metabolism Study (POMMS): Methods, Baseline Data, and Early Insights. [Obesity](https://onlinelibrary.wiley.com/doi/10.1002/oby.23081)
+
+
+Analysis and visualization of epidemics on the timescale of burden: derivation and application of Epidemic Resistance Lines (ERLs) to COVID-19 outbreaks in the US. [medRxiv](https://www.medrxiv.org/content/10.1101/2021.05.03.21256542v2.full)
 
 # 2020 
 

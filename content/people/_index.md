@@ -34,8 +34,10 @@ PhD Student, Bioinformatics and Genomics
 Tinghua Chen <br /> 
 PhD Student, Informatics
 
-Zhao Ma <br /> 
+<div>
+<img align="left" src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://ist.psu.edu/directory/zxm5153">Zhao Ma</a> <br />
 Masters Student, Informatics
+</div>
 
 # Graduated
 

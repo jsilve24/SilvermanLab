@@ -8,20 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jsilve24.github.io/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>publications</title>
-      <link>https://jsilve24.github.io/SilvermanLab/publications/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jsilve24.github.io/SilvermanLab/publications/</guid>
-      <description>preprints A Statistical Analysis of Compositional Surveys. arXiv
-Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake. bioRxiv
-2022 Multiomics implicate gut microbiota in altered lipid and energy metabolism in Parkinson’s disease. NPJ Parkinsson&amp;rsquo;s Disease
-2021 Scalable estimation of microbial co-occurrence networks with Variational Autoencoders. NeurIPS
-Bayesian Multinomial Logistic Normal Models through Marginally Latent Matrix-T Processes. Journal of Machine Learning Resarch (Accepted)
-Measuring and Mitigating PCR Bias in Microbiome Data.</description>
-    </item>
-    
-    <item>
       <title>code</title>
       <link>https://jsilve24.github.io/SilvermanLab/code/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>

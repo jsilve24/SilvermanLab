@@ -33,8 +33,12 @@ date: 2022-05-20
 <br /> PhD Student, Bioinformatics and Genomics
 </div>
 
-Tinghua Chen <br /> 
-PhD Student, Informatics
+
+<div>
+<img align="left" src="tinghua.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  
+<a href="https://ist.psu.edu/directory/tuc579">Tinghua Chen</a>
+<br /> PhD Student, Informatics
+</div>
 
 <div>
 <img align="left" src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://ist.psu.edu/directory/zxm5153">Zhao Ma</a> <br />

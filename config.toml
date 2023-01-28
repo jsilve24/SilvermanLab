@@ -33,7 +33,7 @@ publishDir = "docs"
     text = "people"
 
 [[params.mainMenu]]
-    link = "publications/"
+    link = "https://scholar.google.com/citations?user=V8RmiSAAAAAJ&hl=en&oi=ao"
     text = "publications"
 
 [[params.mainMenu]]

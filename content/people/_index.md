@@ -40,12 +40,22 @@ date: 2022-05-20
 <br /> PhD Student, Informatics
 </div>
 
+
+
+<div>
+<img align="left" src="manan.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://www.linkedin.com/in/manansaxena05/">Manan Saxena</a> <br />
+Masters Student, Informatics
+</div>
+
+
+
+
+# Graduated
+
 <div>
 <img align="left" src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://ist.psu.edu/directory/zxm5153">Zhao Ma</a> <br />
 Masters Student, Informatics
 </div>
-
-# Graduated
 
 <a href="https://ist.psu.edu/directory/fbm5122">Farhani Momotaz</a> <br />
 Masters Student, Informatics

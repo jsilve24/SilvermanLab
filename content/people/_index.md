@@ -41,6 +41,13 @@ date: 2022-05-20
 </div>
 
 
+<div>
+<img align="left" src="won.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  
+<a href="https://science.psu.edu/stat/people/wpg5129">Won Gu</a>
+<br /> PhD Student, Statistics
+</div>
+
+
 
 <div>
 <img align="left" src="manan.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://www.linkedin.com/in/manansaxena05/">Manan Saxena</a> <br />

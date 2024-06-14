@@ -14,13 +14,6 @@ date: 2022-05-20
 </div>
 
 
-
-<div style>
-<img align="left" src="michelle.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://ist.psu.edu/directory/map5672"> Dr. Michelle Nixon, PhD</a>
-<br /> Assistant Research Professor
-</div>
-
-
 <div>
 <img align="left" src="kyle.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://www.huck.psu.edu/people/kyle-mcgovern"> Kyle McGovern </a>
 <br /> PhD Student, Bioinformatics and Genomics
@@ -58,6 +51,11 @@ Masters Student, Informatics
 
 
 # Graduated
+
+<div style>
+<img align="left" src="michelle.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://ist.psu.edu/directory/map5672"> Dr. Michelle Nixon, PhD</a>
+<br /> Assistant Research Professor
+</div>
 
 <div>
 <img align="left" src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://ist.psu.edu/directory/zxm5153">Zhao Ma</a> <br />

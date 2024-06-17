@@ -41,6 +41,13 @@ date: 2022-05-20
 </div>
 
 
+<div>
+<img align="left" src="MaxwellK.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://maxwellkonnaris.com/"> Maxwell Konnaris</a>
+<br /> PhD Student, Bioinformatics and Genomics
+</div>
+
+
+
 
 <div>
 <img align="left" src="manan.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://www.linkedin.com/in/manansaxena05/">Manan Saxena</a> <br />

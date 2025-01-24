@@ -3,6 +3,12 @@
   date: 2020-08-18
 ---
 
+ICDS co-hire contributes to study finding new treatment for dairy cows. (2025) [ICDS News](https://www.icds.psu.edu/icds-co-hire-contributes-to-study-finding-new-treatment-for-dairy-cows/)
+
+Study of ancient British oral microbiomes reveals shift following Black Death. (2023) [Penn State News](https://www.psu.edu/news/research/story/study-ancient-british-oral-microbiomes-reveals-shift-following-black-death)
+
+Outlier Detection Systems for Early COVID-19 Detection. (2022) [The Daily Beast](https://www.thedailybeast.com/flu-surveillance-data-may-be-able-to-track-covid-19-future-pandemics)
+
 Footprints of the invisible enemy – Why a study showing that COVID-19 is everywhere is good news. (April 2020). [The Economist](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news)
 
 How deadly is the coronavirus? The true fatality rate is tricky to find, but researchers are getting close. (July 2020) [The Conversation](https://theconversation.com/how-deadly-is-the-coronavirus-the-true-fatality-rate-is-tricky-to-find-but-researchers-are-getting-closer-141426)

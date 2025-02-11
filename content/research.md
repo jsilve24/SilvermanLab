@@ -9,38 +9,18 @@ We conduct cutting-edge research developing Bayesian statistical and machine lea
 
 Our lab is founded on collaborations with both accademia and industry, [please contact us if you are interested in potential collaboration](mailto:JustinSilverman@psu.edu).
 
-## long form
+## long(er) form
 
-If it has cool math and an impactful question, we are interested. Based on Dr. Silverman's combined medical and statistical training, we tend to gravitate to problems in the analysis of biomedical data; especially, genomics and electronic health data. However, our research interests are varied and include both theoretical and applied aspects of mathematics and statistics. 
+If it has cool math and an impactful question, we are interested. Based on Dr. Silverman's combined medical and statistical training, we tend to gravitate to problems in the analysis of biomedical data; especially, genomics and high-throughput assays. However, our research interests are varied and include both theoretical and applied aspects of mathematics and statistics. 
+
+From methodological perspective, we have particular interest in developing robust inferential and predictive models for non-identifiable problems. This includes issues of unmeasured confounding, systematic measurement bias, model misspecification, and scale reliant inference. 
+
+### example dissertation projects 
+
++ Bayesian partially identified models lead to dramatic decreases in Type-I and II errors in microbiome and gene expression analyses. [link](https://arxiv.org/abs/2201.03616)
++ Syndromic surveillance reveals widespread underestimating in COVID-19 prevalence within the US in 2020. [link](https://www.science.org/doi/10.1126/scitranslmed.abc1126)
++ Scalable Bayesian multinomial logistic normal models enhance analyses of microbiome data. [link](https://jmlr.org/papers/v23/19-882.html)
++ Bayesian conformal prediction and out-of-sample boosting leads to more efficient prediction intervals and improved conditional coverage. (in progress)
++ Conditional generative models for analyzing microbiome data directly in sequence space. (in progress)
 
 
-### Genomics
-* Statistical methods for the analysis of sequence count data (e.g., 16S microbiome surveys, bulk RNA-seq, and single-cell RNA-seq)
-* Differential expression and correlation analysis when working with count compositional data. What kinds of assumptions allow these problems to be identifiable?
-* What do zeros in sequence count data represent and how do we deal with them?
-* Batch effects and PCR amplification bias
-
-
-#### Electronic Health / Personalized Medicine
-
-* Statistical and machine learning methods for interpreting imperfect diagnostic tests
-* Syndromic surveillance for emerging infectious diseases
-* How can we infer changes in patient care seeking behavior during a pandemic?
-
-### Statistics and Machine Learning
-
-* Bayesian analysis of partially identified models
-* Efficient and accurate methods for inferring high-dimensional Bayesian models
-* Non-Gaussian, non-linear time-series analysis
-* Compositional time-series
-* Bayesian decision theory
-* Optimal control and sequential and active learning
-
-### Other
-
-* Can symmetries in probabilistic models be found computationally and exploited for faster inference?
-* When is there a closed form transformation between two families of probability distributions?
-* How can you find a transformation that maps one family of probability models into another family (assuming the two families are topologically equivalent)?
-* Gaussian process with asymmetric kernels
-* How can you identify families of probability models with identical marginal distributions.
-* Statistical Methods for Party Planning

@@ -47,6 +47,10 @@ date: 2022-05-20
 </div>
 
 
+<div>
+<img align="left" src="zshi_resized.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://ist.psu.edu/directory/zjs5273">Ziang Shi</a> <br />
+PhD Student, Informatics
+</div>
 
 
 <div>

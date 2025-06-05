@@ -66,7 +66,7 @@ PhD Student, Informatics
 </div>
 
 <div>
-<img align="left" src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://ist.psu.edu/directory/zxm5153">Zhao Ma</a> <br />
+<img align="left" src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://www.zhaoma98.com/">Zhao Ma</a> <br />
 Masters of Science in Informatics
 </div>
 

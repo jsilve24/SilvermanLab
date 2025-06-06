@@ -32,7 +32,7 @@ date: 2022-05-20
 <div>
 <img align="left" src="MaxwellK.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="https://maxwellkonnaris.com/"> Maxwell Konnaris</a>
 <br /> PhD Student, Bioinformatics and Genomics
-<br /> <i> Scale Reliant Inference, Machine Learning Genomics</i>
+<br /> <i> Scale Reliant Covariance Estimation, Machine Learning Methods for Quantitative Sequence Analysis</i>
 </div>
 
 

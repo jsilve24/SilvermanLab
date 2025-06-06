@@ -32,6 +32,12 @@ date: 2022-05-20
 <br /> PhD Student, Bioinformatics and Genomics
 </div>
 
+
+<div>
+<img align="left" src="dharmik.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://www.linkedin.com/in/dharmikrathod/">Dharmik Rathod</a> <br />
+Masters Student, Informatics
+</div>
+
 <div>
 <img align="left" src="manan.png" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> <a href="https://www.linkedin.com/in/manansaxena05/">Manan Saxena</a> <br />
 Masters (Graduated) <br /> and PhD Student (Current), Informatics
@@ -70,6 +76,9 @@ PhD Student, Informatics
 Masters of Science in Informatics
 </div>
 
-<a href="https://ist.psu.edu/directory/fbm5122">Farhani Momotaz</a> <br />
+<div>
+<img align="left" src="farhani.jpeg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%"> <br /> 
+<a href="https://www.linkedin.com/in/farhani-momo/">Farhani Momotaz</a> <br />
 Masters of Science in Informatics
+</div>
 

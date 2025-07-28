@@ -13,6 +13,17 @@ date: 2022-05-20
 <br />Principle Investigator
 </div>
 
+
+<div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
+  <img src="allen.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+  <div>
+    Allen Baumgardner-Zuzik<br />
+    PhD Student, Informatics <br />
+    <i>Scalable Bayesian Inference</i>
+  </div>
+</div>
+
+
 <div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
   <img src="tinghua.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
   <div>

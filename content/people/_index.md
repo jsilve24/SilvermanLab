@@ -78,18 +78,20 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="andrew.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
-  <div>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Andrew+Sugarman">Andrew Sugarman</a><br />
-    MD and PhD Student, Bioinformatics and Genomics<br />
-    <i>Applications of Topological and Functional Data Analysis to Image Analysis in Oncology</i>
-  </div>
-</div>
 
 
 
 # Graduated
+
+
+<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
+  <img src="andrew.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+  <div>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Andrew+Sugarman">Dr. Andrew Sugarman, PhD</a><br />
+    MD and PhD Student, Bioinformatics and Genomics<br />
+    <i>Applications of Topological and Functional Data Analysis to Image Analysis in Oncology</i>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
   <img src="kyle.png" style="max-width: 150px; width: 30%; border-radius: 50%;">

@@ -5,7 +5,7 @@
 
 ## in brief
 
-We conduct cutting-edge research developing Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data. 
+We develop Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data. 
 
 Our lab is founded on collaborations with both accademia and industry, [please contact us if you are interested in potential collaboration](mailto:JustinSilverman@psu.edu).
 

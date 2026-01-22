@@ -4,7 +4,9 @@
 ---
 
 
-**fido** Bayesian multinomial logistic normal models, really fast. Lots of models including linear and non-linear regression, time-series analysis, and joint modeling of multi-omic data.  renamed from *stray*. [GitHub](https://github.com/jsilve24/fido)
+**fido** Bayesian multinomial logistic normal models, really fast. Lots of models including linear and non-linear regression, time-series analysis, and joint modeling of multi-omic data.  renamed from *stray*. [CRAN](https://cran.r-project.org/web/packages/fido/index.html)
+
+**ALDEx3** Analysis Of Differential Abundance Taking Sample and Scale Variation Into Account. [GitHub](https://github.com/jsilve24/ALDEx3)
 
 **ALDEx2** Analysis Of Differential Abundance Taking Sample and Scale Variation Into Account. This software is authored by Dr. Greg Gloor. We collaborate with Dr. Gloor to implement many of our statistical models within ALDEx2. [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/ALDEx2.html)
 

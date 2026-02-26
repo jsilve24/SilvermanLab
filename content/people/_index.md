@@ -75,7 +75,7 @@ date: 2022-05-20
   <div>
     <a href="https://www.linkedin.com/in/manansaxena05/">Manan Saxena</a><br />
     Masters (Graduated) and PhD Student (Current), Informatics<br />
-    <i>Scalable Bayesian Hierarchical Time-Series Models, Theory of Invariance in ML/AI, Functional Data Analysis</i>
+    <i>Scalable Bayesian Hierarchical Time-Series Models, Theory of Identifiability for ML/AI, Statistical Learning Theory, Functional Data Analysis</i>
   </div>
 </div>
 

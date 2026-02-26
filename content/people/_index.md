@@ -18,7 +18,7 @@ date: 2022-05-20
 <div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
   <img src="vandana.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
   <div>
-    Vandana Agarwala<br />
+    <a href="https://www.linkedin.com/in/vandana-agarwala-26a206169/">Vandana Agarwala</a><br />
     PhD Student, Statistics <br />
     <i>Uncertainty Quantification for ML/AI, High-Throughput Drug Screening Assays</i>
   </div>

@@ -14,6 +14,16 @@ date: 2022-05-20
 </div>
 
 
+
+<div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
+  <img src="vandana.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+  <div>
+    Vandana Agarwala<br />
+    PhD Student, Statistics <br />
+    <i>Uncertainty Quantification for ML/AI, High-Throughput Drug Screening Assays</i>
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
   <img src="allen.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
   <div>

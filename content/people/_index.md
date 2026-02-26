@@ -10,7 +10,7 @@ date: 2022-05-20
 
 <div>
 <img align="left" src="Silverman-Justin.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="http://justin-silverman.com"> Dr. Justin Silverman, MD, PhD</a>
-<br />Principle Investigator
+<br />Principal Investigator
 </div>
 
 
@@ -24,7 +24,7 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
+<div style="display: flex; align-items: er; gap: 5%; max-width: 600px;">
   <img src="allen.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
   <div>
     Allen Baumgardner-Zuzik<br />

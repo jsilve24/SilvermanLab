@@ -84,7 +84,7 @@ date: 2022-05-20
   <div>
     <a href="https://ist.psu.edu/directory/zjs5273">Ziang Shi</a><br />
     PhD Student, Informatics<br />
-    <i>Uncertainty Quantification in Black-Box ML/AI Models</i>
+    <i>Uncertainty Quantification for ML/AI, Transcription Factor Binding Prediction</i>
   </div>
 </div>
 

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silverman Lab</title>
-    <link>https://jsilve24.github.io/SilvermanLab/</link>
+    <link>http://localhost:1313/SilvermanLab/</link>
     <description>Recent content on Silverman Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jsilve24.github.io/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>research</title>
+      <link>http://localhost:1313/SilvermanLab/research/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/SilvermanLab/research/</guid>
+      <description>&lt;h2 id=&#34;in-brief&#34;&gt;in brief&lt;/h2&gt;&#xA;&lt;p&gt;We develop statistical and machine learning methods for complex biomedical data, with a particular focus on uncertainty quantification, robust inference, and prediction in settings where the scientific target is only partially identifiable from the observed data. Our work lies at the interface of Bayesian statistics, deep learning, and deep generative modeling, with applications in genomics, microbiome research, and other high-throughput biological assays.&lt;/p&gt;&#xA;&lt;p&gt;Our lab is highly collaborative and works across statistics, biology, medicine, and computer science. &lt;a href=&#34;mailto:JustinSilverman@psu.edu&#34;&gt;Please contact us if you are interested in potential collaboration&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>code</title>
-      <link>https://jsilve24.github.io/SilvermanLab/code/</link>
+      <link>http://localhost:1313/SilvermanLab/code/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://jsilve24.github.io/SilvermanLab/code/</guid>
+      <guid>http://localhost:1313/SilvermanLab/code/</guid>
       <description>&lt;p&gt;&lt;strong&gt;fido&lt;/strong&gt; Bayesian multinomial logistic normal models, really fast. Lots of models including linear and non-linear regression, time-series analysis, and joint modeling of multi-omic data.  renamed from &lt;em&gt;stray&lt;/em&gt;. &lt;a href=&#34;https://cran.r-project.org/web/packages/fido/index.html&#34;&gt;CRAN&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ALDEx3&lt;/strong&gt; Analysis Of Differential Abundance Taking Sample and Scale Variation Into Account. &lt;a href=&#34;https://cran.r-project.org/web/packages/ALDEx3/index.html&#34;&gt;CRAN&lt;/a&gt; &lt;a href=&#34;https://github.com/jsilve24/ALDEx3&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ALDEx2&lt;/strong&gt; Analysis Of Differential Abundance Taking Sample and Scale Variation Into Account. This software is authored by Dr. Greg Gloor. We collaborate with Dr. Gloor to implement many of our statistical models within ALDEx2. &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/ALDEx2.html&#34;&gt;Bioconductor&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>open positions</title>
-      <link>https://jsilve24.github.io/SilvermanLab/positions/</link>
+      <link>http://localhost:1313/SilvermanLab/positions/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jsilve24.github.io/SilvermanLab/positions/</guid>
+      <guid>http://localhost:1313/SilvermanLab/positions/</guid>
       <description>&lt;p&gt;We are currently hiring graduate students with strong mathematics and statistics backgrounds. Contact &lt;a href=&#34;mailto:justinsilverman@psu.edu&#34;&gt;Justin Silverman&lt;/a&gt; if you are interested.&lt;/p&gt;</description>
     </item>
     <item>
       <title>press</title>
-      <link>https://jsilve24.github.io/SilvermanLab/press/</link>
+      <link>http://localhost:1313/SilvermanLab/press/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jsilve24.github.io/SilvermanLab/press/</guid>
+      <guid>http://localhost:1313/SilvermanLab/press/</guid>
       <description>&lt;p&gt;ICDS co-hire contributes to study finding new treatment for dairy cows. (2025) &lt;a href=&#34;https://www.icds.psu.edu/icds-co-hire-contributes-to-study-finding-new-treatment-for-dairy-cows/&#34;&gt;ICDS News&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Study of ancient British oral microbiomes reveals shift following Black Death. (2023) &lt;a href=&#34;https://www.psu.edu/news/research/story/study-ancient-british-oral-microbiomes-reveals-shift-following-black-death&#34;&gt;Penn State News&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Outlier Detection Systems for Early COVID-19 Detection. (2022) &lt;a href=&#34;https://www.thedailybeast.com/flu-surveillance-data-may-be-able-to-track-covid-19-future-pandemics&#34;&gt;The Daily Beast&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Footprints of the invisible enemy – Why a study showing that COVID-19 is everywhere is good news. (April 2020). &lt;a href=&#34;https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news&#34;&gt;The Economist&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;How deadly is the coronavirus? The true fatality rate is tricky to find, but researchers are getting close. (July 2020) &lt;a href=&#34;https://theconversation.com/how-deadly-is-the-coronavirus-the-true-fatality-rate-is-tricky-to-find-but-researchers-are-getting-closer-141426&#34;&gt;The Conversation&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>research</title>
-      <link>https://jsilve24.github.io/SilvermanLab/research/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jsilve24.github.io/SilvermanLab/research/</guid>
-      <description>&lt;h2 id=&#34;in-brief&#34;&gt;in brief&lt;/h2&gt;&#xA;&lt;p&gt;We develop Bayesian statistical and machine learning methods for the analysis of various types of data including genomic, electronic health, and public health data.&lt;/p&gt;&#xA;&lt;p&gt;Our lab is founded on collaborations with both accademia and industry, &lt;a href=&#34;mailto:JustinSilverman@psu.edu&#34;&gt;please contact us if you are interested in potential collaboration&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;longer-form&#34;&gt;long(er) form&lt;/h2&gt;&#xA;&lt;p&gt;If it has cool math and an impactful question, we are interested. Based on Dr. Silverman&amp;rsquo;s combined medical and statistical training, we tend to gravitate to problems in the analysis of biomedical data; especially, genomics and high-throughput assays. However, our research interests are varied and include both theoretical and applied aspects of mathematics and statistics.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -67,9 +67,8 @@ date: 2022-05-20
   <img src="dharmik.jpg">
   <div>
     <a href="https://www.linkedin.com/in/dharmikrathod/">Dharmik Rathod</a><br />
-    Masters Student, Informatics(Graduated) <br />
-    PhD Student, Statistics (Current) <br />
-    <i>Bayesian Hierarchical Linear Models, PCR Bias, Other Really Cool Stuff TBD</i>
+    Masters Student, Informatics<br />
+    <i>Bayesian Hierarchical Linear Models, PCR Bias</i>
   </div>
 </div>
 

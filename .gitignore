@@ -2,3 +2,4 @@
 /docs/.DS_Store
 /themes/.DS_Store
 /.hugo_build.lock
+/.agent-shell/

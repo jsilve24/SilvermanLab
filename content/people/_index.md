@@ -8,15 +8,17 @@ date: 2022-05-20
 <!-- convert 'michelle.jpg[250x]' michelle-resized.jpg -->
 
 
-<div>
-<img align="left" src="Silverman-Justin.jpg" style="max-width: 150px; width: 30%; border-radius: 50%; margin-right: 5%">  <br />  <a href="http://justin-silverman.com"> Dr. Justin Silverman, MD, PhD</a>
+<div class="person">
+  <img src="Silverman-Justin.jpg">
+  <div><a href="http://justin-silverman.com"> Dr. Justin Silverman, MD, PhD</a>
 <br />Principal Investigator
+  </div>
 </div>
 
 
 
-<div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
-  <img src="vandana.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="vandana.jpg">
   <div>
     <a href="https://www.linkedin.com/in/vandana-agarwala-26a206169/">Vandana Agarwala</a><br />
     PhD Student, Statistics <br />
@@ -24,8 +26,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: er; gap: 5%; max-width: 600px;">
-  <img src="allen.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="allen.jpg">
   <div>
     <a href="https://www.linkedin.com/in/allen-baumgardner-zuzik-7a481768/">Allen Baumgardner-Zuzik</a><br />
     PhD Student, Informatics <br />
@@ -34,8 +36,8 @@ date: 2022-05-20
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 5%; max-width: 600px;">
-  <img src="tinghua.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="tinghua.jpg">
   <div>
     <a href="https://ist.psu.edu/directory/tuc579">Tinghua Chen</a><br />
     PhD Student, Informatics<br />
@@ -43,8 +45,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="won.png" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="won.png">
   <div>
     <a href="https://science.psu.edu/stat/people/wpg5129">Won Gu</a><br />
     PhD Student, Statistics<br />
@@ -52,8 +54,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="MaxwellK.png" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="MaxwellK.png">
   <div>
     <a href="https://maxwellkonnaris.com/">Maxwell Konnaris</a><br />
     PhD Student, Bioinformatics and Genomics<br />
@@ -61,8 +63,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="dharmik.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="dharmik.jpg">
   <div>
     <a href="https://www.linkedin.com/in/dharmikrathod/">Dharmik Rathod</a><br />
     Masters Student, Informatics(Graduated) <br />
@@ -71,8 +73,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="manan.png" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="manan.png">
   <div>
     <a href="https://www.linkedin.com/in/manansaxena05/">Manan Saxena</a><br />
     Masters (Graduated) and PhD Student (Current), Informatics<br />
@@ -80,8 +82,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="zshi_resized.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="zshi_resized.jpg">
   <div>
     <a href="https://ist.psu.edu/directory/zjs5273">Ziang Shi</a><br />
     PhD Student, Informatics<br />
@@ -95,8 +97,8 @@ date: 2022-05-20
 # Graduated
 
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="andrew.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="andrew.jpg">
   <div>
     <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Andrew+Sugarman">Dr. Andrew Sugarman, PhD</a><br />
     MD and PhD Student, Bioinformatics and Genomics<br />
@@ -104,8 +106,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="kyle.png" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="kyle.png">
   <div>
     <a href="https://www.huck.psu.edu/people/kyle-mcgovern">Dr. Kyle McGovern, PhD</a><br />
     PhD in Bioinformatics and Genomics<br />
@@ -113,8 +115,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="michelle.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="michelle.jpg">
   <div>
     <a href="https://ist.psu.edu/directory/map5672">Dr. Michelle Nixon, PhD</a><br />
     Assistant Research Professor<br />
@@ -122,8 +124,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="zhaoma.jpg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="zhaoma.jpg">
   <div>
     <a href="https://www.zhaoma98.com/">Zhao Ma</a><br />
     Masters of Science in Informatics<br />
@@ -131,8 +133,8 @@ date: 2022-05-20
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 5%; margin-bottom: 20px; max-width: 600px;">
-  <img src="farhani.jpeg" style="max-width: 150px; width: 30%; border-radius: 50%;">
+<div class="person">
+  <img src="farhani.jpeg">
   <div>
     <a href="https://www.linkedin.com/in/farhani-momo/">Farhani Momotaz</a><br />
     Masters of Science in Informatics<br />

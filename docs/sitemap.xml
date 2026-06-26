@@ -1,27 +1,28 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/SilvermanLab/research/</loc>
+    <loc>http://localhost:35801/SilvermanLab/research/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/</loc>
+    <loc>http://localhost:35801/SilvermanLab/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/code/</loc>
+    <loc>http://localhost:35801/SilvermanLab/code/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/people/</loc>
+    <loc>http://localhost:35801/SilvermanLab/people/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/positions/</loc>
+    <loc>http://localhost:35801/SilvermanLab/positions/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/press/</loc>
+    <loc>http://localhost:35801/SilvermanLab/press/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/categories/</loc>
+    <loc>http://localhost:35801/SilvermanLab/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/SilvermanLab/tags/</loc>
+    <loc>http://localhost:35801/SilvermanLab/tags/</loc>
   </url>
 </urlset>

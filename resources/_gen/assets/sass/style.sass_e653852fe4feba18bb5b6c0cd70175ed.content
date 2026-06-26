@@ -7,14 +7,16 @@
 html {
   background-color: #39424E;
   font-family: "Didact Gothic", "sans serif";
-  font-size: 16px; }
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%; }
 
 body {
   font-size: 16px;
   font-family: "Didact Gothic", "sans serif";
   color: #fff;
-  line-height: 2rem;
-  letter-spacing: 1.5px;
+  line-height: 1.65;
+  letter-spacing: 0;
   text-shadow: none;
   display: flex;
   flex-direction: column;
@@ -23,10 +25,10 @@ body {
   opacity: 1; }
 
 header {
-  padding: 6em 1em 1em 0; }
+  padding: clamp(2.5rem, 8vw, 6rem) 0 1rem; }
   @media screen and (max-width: 736px) {
     header {
-      padding: 3em 0; } }
+      padding-top: 2rem; } }
 h1, h2, h3 {
   margin-bottom: 0.5em;
   font-family: 'Didact Gothic', sans-serif;
@@ -75,11 +77,12 @@ nav {
 
 .wrap {
   margin: 0 auto;
-  width: 45%;
+  width: min(90vw, 64rem);
   max-width: 64em; }
   @media screen and (max-width: 736px) {
     .wrap {
-      width: 90%; } }
+      width: 100%;
+      padding: 0 1.25rem; } }
 .tag-container {
   display: flex;
   flex-direction: row;
@@ -123,14 +126,17 @@ nav {
     display: contents; }
 
 #splash {
-  min-height: calc(100vh - 6em); }
+  min-height: calc(100vh - 6em);
+  width: min(90vw, 48rem);
+  padding: clamp(2rem, 6vw, 4rem) 0; }
 
 .big-link {
   font-family: "Didact Gothic", "sans serif";
-  font-size: 3rem;
+  font-size: clamp(2rem, 8vw, 3rem);
   font-weight: 300;
-  margin-bottom: 2rem;
-  line-height: 1.5em; }
+  margin-bottom: clamp(1rem, 4vw, 2rem);
+  line-height: 1.15;
+  overflow-wrap: anywhere; }
 
 #title {
   margin-top: 3rem;
@@ -141,8 +147,8 @@ nav {
 
 article {
   width: 100%;
-  line-height: 2em;
-  letter-spacing: 2px; }
+  line-height: 1.7;
+  letter-spacing: 0; }
   article div {
     width: 100%;
     height: 100%;
@@ -154,7 +160,7 @@ article {
     display: block;
     margin-bottom: 1em;
     line-height: 1.6;
-    letter-spacing: 1.5px; }
+    letter-spacing: 0; }
   article .highlight {
     width: 100%; }
   article pre {
@@ -223,6 +229,33 @@ article {
       color: #fff; }
       article .gist .gist-meta a {
         color: #fff; }
+
+.person {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  max-width: 42rem;
+  margin-bottom: 1.25rem; }
+
+.person img {
+  flex: 0 0 clamp(5rem, 24vw, 9rem);
+  width: clamp(5rem, 24vw, 9rem);
+  max-width: 9rem;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0; }
+
+.person div {
+  margin-bottom: 0; }
+
+@media screen and (max-width: 480px) {
+  .person {
+    align-items: flex-start;
+    gap: 1rem; }
+  .person img {
+    flex-basis: 4.5rem;
+    width: 4.5rem; } }
 
 .tag {
   padding: 0.25em 0em;

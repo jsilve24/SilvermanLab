@@ -66,7 +66,7 @@ date: 2022-05-20
 <div class="person">
   <img src="dharmik.jpg">
   <div>
-    <a href="https://www.linkedin.com/in/dharmikrathod/">Dharmik Rathod</a><br />
+    <a href="https://science.psu.edu/stat/people/drr5496">Dharmik Rathod</a><br />
     Masters Student, Informatics<br />
     <i>Bayesian Hierarchical Linear Models, PCR Bias</i>
   </div>

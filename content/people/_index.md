@@ -67,8 +67,10 @@ date: 2022-05-20
   <img src="dharmik.jpg">
   <div>
     <a href="https://science.psu.edu/stat/people/drr5496">Dharmik Rathod</a><br />
-    Masters Student, Informatics<br />
-    <i>Bayesian Hierarchical Linear Models, PCR Bias</i>
+	PhD Student, Statistics (Current) <br /> 
+    Masters Student, Informatics (Graduated)<br />
+	<i>Uncertainty Quantification for ML/AI, 
+    Bayesian Hierarchical Linear Models, PCR Bias</i>
   </div>
 </div>
 

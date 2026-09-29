@@ -11,7 +11,7 @@ date: 2022-05-20
 <div class="person">
   <img src="Silverman-Justin.jpg">
   <div><a href="http://justin-silverman.com"> Dr. Justin Silverman, MD, PhD</a>
-<br />Principal Investigator
+<br />Principal Investigator <br /> Associate Professor <br /> Department of Statistics <br /> Department of Informatics and Intelligent Systems <br /> Department of Medicine 
   </div>
 </div>
 

@@ -1,6 +1,6 @@
 --- 
   title: "open positions"
-  date: 2020-08-18
+  date: 2026-10-13
 ---
 
-We are currently hiring graduate students with strong mathematics and statistics backgrounds. Contact [Justin Silverman](mailto:justinsilverman@psu.edu) if you are interested. 
+We are currently accepting new students only through the Ph.D. program in Statistics at Penn State (University Park Campus). Prospective students interested in joining the lab should apply to the PhD in Statistics program: https://science.psu.edu/stat/graduate-programs/how-to-apply

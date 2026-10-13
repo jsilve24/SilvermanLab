@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/SilvermanLab/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>open positions</title>
+				<link>http://localhost:1313/SilvermanLab/positions/</link>
+				<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/SilvermanLab/positions/</guid>
+				<description>&lt;p&gt;We are currently accepting new students only through the Ph.D. program in Statistics at Penn State (University Park Campus). Prospective students interested in joining the lab should apply to the PhD in Statistics program: &lt;a href=&#34;https://science.psu.edu/stat/graduate-programs/how-to-apply&#34;&gt;https://science.psu.edu/stat/graduate-programs/how-to-apply&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>research</title>
 				<link>http://localhost:1313/SilvermanLab/research/</link>
@@ -26,13 +33,6 @@
 				<pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/SilvermanLab/code/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;fido&lt;/strong&gt; Bayesian multinomial logistic normal models, really fast. Lots of models including linear and non-linear regression, time-series analysis, and joint modeling of multi-omic data.  renamed from &lt;em&gt;stray&lt;/em&gt;. &lt;a href=&#34;https://cran.r-project.org/web/packages/fido/index.html&#34;&gt;CRAN&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ALDEx3&lt;/strong&gt; Analysis Of Differential Abundance Taking Sample and Scale Variation Into Account. &lt;a href=&#34;https://cran.r-project.org/web/packages/ALDEx3/index.html&#34;&gt;CRAN&lt;/a&gt; &lt;a href=&#34;https://github.com/jsilve24/ALDEx3&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;ALDEx2&lt;/strong&gt; Analysis Of Differential Abundance Taking Sample and Scale Variation Into Account. This software is authored by Dr. Greg Gloor. We collaborate with Dr. Gloor to implement many of our statistical models within ALDEx2. &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/ALDEx2.html&#34;&gt;Bioconductor&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>open positions</title>
-				<link>http://localhost:1313/SilvermanLab/positions/</link>
-				<pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/SilvermanLab/positions/</guid>
-				<description>&lt;p&gt;We are currently hiring graduate students with strong mathematics and statistics backgrounds. Contact &lt;a href=&#34;mailto:justinsilverman@psu.edu&#34;&gt;Justin Silverman&lt;/a&gt; if you are interested.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>press</title>
